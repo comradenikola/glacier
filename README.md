@@ -1,9 +1,5 @@
-# icicle ![](https://img.shields.io/badge/abandoned-yes-red.svg)
+# Glacier Engine ![](https://img.shields.io/badge/kyrostat-yes-green.svg)
 
-Pretty much the *coolest* game engine. It's also broken. Very *very* broken.  
-I'll fix it one day.
+Pretty much the *coolest* game engine based on the work of a NYC prodigy.
 
-# FAQ
 
-**Q:** I compiled it and executed the binary, why did it segfault?  
-**A:** See [here](https://www.opengl.org/) for more information.
